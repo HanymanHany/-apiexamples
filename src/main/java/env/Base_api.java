@@ -26,7 +26,7 @@ public class Base_api {
 
     }
 
-    protected void getTokensMerchant(){
+    protected void getTokens(){
 
     }
 

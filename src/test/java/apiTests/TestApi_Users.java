@@ -28,8 +28,8 @@ public class TestApi_Users extends Base_api {
     }
 
     @Test
-    @Description("Создание нового пета.")
-    public void testCreateNewPets() throws MalformedURLException, UnsupportedEncodingException {
+    @Description("Создание нового юзера.")
+    public void testCreateNewUser() {
         // prepare
         String id = generator.getId();
         String userName = generator.getUserName();
